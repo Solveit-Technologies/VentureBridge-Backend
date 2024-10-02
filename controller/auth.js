@@ -1,5 +1,5 @@
 import UserModel from "../models/UserModel";
-class User  {
+class AuthController  {
  
     static signIn = () =>{
 
@@ -13,4 +13,4 @@ class User  {
 }
 
 
-export default User;
+export default AuthController;
